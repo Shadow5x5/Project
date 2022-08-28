@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Shado\source\repos\Project6\Project6\Source.cpp(14,9): warning C4101: hCon: неиспользованная локальная переменная
+C:\Users\Shado\source\repos\Project6\Project6\Source.cpp(110,14): warning C4101: Test: неиспользованная локальная переменная
+  Project6.vcxproj -> C:\Users\Shado\source\repos\Project6\x64\Debug\Project6.exe
